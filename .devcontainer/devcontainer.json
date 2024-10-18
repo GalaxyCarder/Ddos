@@ -1,5 +1,5 @@
 {
-    "name": "My Codespace",
+    "name": "ideal-space-goldfish-5gxqpq54xr5jcp657",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
     "features": {
         "ghcr.io/devcontainers/features/sshd:1": {
